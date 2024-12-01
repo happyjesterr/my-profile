@@ -48,7 +48,7 @@ const AnimatedText = ({ text }) => {
     <div className="title-container   uppercase">
       <div className=" prve:block hidden  text-center   ">
         <div>
-          {currentText.slice(0, 6).map((char, index) => (
+          {currentText.slice(0, 7).map((char, index) => (
             <span
               className={`  display-1 !text-6xl ${
                 index <= fixedIndex ? "glow " : ""
