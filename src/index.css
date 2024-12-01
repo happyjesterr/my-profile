@@ -6,7 +6,7 @@
 body {
   background: #111;
   color: #f5f5f5;
-  font-family: "Comfortaa", sans-serif;
+  font-family: "Comfortaa", "Arial", sans-serif;
 }
 
 header nav a.active {
